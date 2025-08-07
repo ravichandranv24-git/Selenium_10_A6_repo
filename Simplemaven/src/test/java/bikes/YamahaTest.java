@@ -10,6 +10,11 @@ public class YamahaTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.yamaha-motor-india.com/");
 		Reporter.log("yamaha launched", true);
+
+				WebDriver driver = new ChromeDriver();
+		driver.get("https://www.yamaha-motor-india.com/");
+		Reporter.log("yamaha launched", true);	
 		}
 
 }
+
